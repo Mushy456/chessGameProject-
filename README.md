@@ -1,3 +1,4 @@
 # chessGameProject-
-Currently trying to fix existent bugs and intergrating online gaming and AI
+Currently trying to fix existent bugs and integrating online gaming and AI
+
 
